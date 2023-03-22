@@ -1,0 +1,18 @@
+name: vi-depth
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - nvidia::cudatoolkit=11.7
+  - python=3.10.8
+  - pytorch::pytorch=1.13.0
+  - torchvision=0.14.0
+  - pip=22.3.1
+  - numpy=1.23.4
+  - pip:
+    - opencv-python==4.6.0.66
+    - scipy==1.10.1
+    - timm==0.6.12
+    - pytorch-lightning==1.9.0
+    - imageio==2.25.0
+    - prettytable==3.6.0
