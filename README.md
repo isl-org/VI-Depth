@@ -2,7 +2,7 @@
 
 This repository contains code and models for our paper:
 
-> Monocular Visual-Inertial Depth Estimation  
+> [Monocular Visual-Inertial Depth Estimation](https://arxiv.org/abs/2303.12134)  
 > Diana Wofk, René Ranftl, Matthias Müller, Vladlen Koltun
 
 ## Introduction
