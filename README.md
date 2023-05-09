@@ -5,6 +5,8 @@ This repository contains code and models for our paper:
 > [Monocular Visual-Inertial Depth Estimation](https://arxiv.org/abs/2303.12134)  
 > Diana Wofk, René Ranftl, Matthias Müller, Vladlen Koltun
 
+For a quick overview of the work you can watch the [short talk](https://youtu.be/Ja4Nic3YYCg) and [teaser](https://youtu.be/IMwiKwSpshQ) on YouTube.
+
 ## Introduction
 
 ![Methodology Diagram](figures/methodology_diagram.png)
